@@ -68,6 +68,8 @@ Clean UI/UX Design
 🔍 Filter (All / Completed / Pending)
 
 ☁️ Backend integration
+
+----
 👨‍💻 Author
 
 Samyak Mahatme
