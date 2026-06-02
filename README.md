@@ -4,6 +4,7 @@
 A simple, responsive Todo List application built using HTML, CSS, and JavaScript.
 This app helps users manage daily tasks efficiently by allowing them to add, mark, and delete todos with a clean and intuitive interface.
 
+---
 🚀 Features
 
 ➕ Add new tasks
@@ -18,6 +19,9 @@ This app helps users manage daily tasks efficiently by allowing them to add, mar
 
 ⚡ Fast and lightweight
 
+---
+
+
 🛠️ Technologies Used
 
 HTML5 – Structure of the app
@@ -28,12 +32,19 @@ JavaScript (ES6) – App logic & DOM manipulation
 
 Local Storage – Save tasks even after page refresh
 
+---
+
+# folder struture
+
 todo-list-app/
 │
 ├── index.html      # Main HTML file
 ├── style.css       # Styling
 ├── script.js       # JavaScript logic
 └── README.md       # Project documentation
+
+---
+
 ⚙️ How It Works
 
 User enters a task and clicks Add
@@ -48,6 +59,8 @@ Deleted
 
 All tasks are stored in Local Storage, so they remain after refreshing the page
 
+---
+
 🧠 Concepts Covered
 
 DOM Manipulation
@@ -59,6 +72,9 @@ JavaScript Functions
 Local Storage API
 
 Clean UI/UX Design
+
+---
+
 🎯 Future Improvements
 
 ✏️ Edit existing tasks
